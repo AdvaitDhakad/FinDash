@@ -1,0 +1,104 @@
+{
+  "MutualFunds": [
+    {
+      "fundHouse": "HDFC Mutual Fund",
+      "schemes": [
+        "HDFC Mid-Cap Opportunities Fund",
+        "HDFC Equity Fund",
+        "HDFC Small Cap Fund",
+        "HDFC Balanced Advantage Fund",
+        "HDFC Hybrid Equity Fund"
+      ]
+    },
+    {
+      "fundHouse": "ICICI Prudential Mutual Fund",
+      "schemes": [
+        "ICICI Prudential Bluechip Fund",
+        "ICICI Prudential Equity & Debt Fund",
+        "ICICI Prudential Midcap Fund",
+        "ICICI Prudential Balanced Advantage Fund",
+        "ICICI Prudential Value Discovery Fund"
+      ]
+    },
+    {
+      "fundHouse": "SBI Mutual Fund",
+      "schemes": [
+        "SBI Bluechip Fund",
+        "SBI Magnum Midcap Fund",
+        "SBI Small Cap Fund",
+        "SBI Focused Equity Fund",
+        "SBI Equity Hybrid Fund"
+      ]
+    },
+    {
+      "fundHouse": "Aditya Birla Sun Life Mutual Fund",
+      "schemes": [
+        "Aditya Birla Sun Life Frontline Equity Fund",
+        "Aditya Birla Sun Life Small Cap Fund",
+        "Aditya Birla Sun Life Midcap Fund",
+        "Aditya Birla Sun Life Balanced Advantage Fund",
+        "Aditya Birla Sun Life Equity Fund"
+      ]
+    },
+    {
+      "fundHouse": "Nippon India Mutual Fund",
+      "schemes": [
+        "Nippon India Large Cap Fund",
+        "Nippon India Small Cap Fund",
+        "Nippon India Growth Fund",
+        "Nippon India Balanced Advantage Fund",
+        "Nippon India Midcap Fund"
+      ]
+    },
+    {
+      "fundHouse": "Kotak Mahindra Mutual Fund",
+      "schemes": [
+        "Kotak Standard Multicap Fund",
+        "Kotak Emerging Equity Fund",
+        "Kotak Equity Hybrid Fund",
+        "Kotak Small Cap Fund",
+        "Kotak Bluechip Fund"
+      ]
+    },
+    {
+      "fundHouse": "Axis Mutual Fund",
+      "schemes": [
+        "Axis Bluechip Fund",
+        "Axis Midcap Fund",
+        "Axis Long Term Equity Fund",
+        "Axis Focused 25 Fund",
+        "Axis Small Cap Fund"
+      ]
+    },
+    {
+      "fundHouse": "Mirae Asset Mutual Fund",
+      "schemes": [
+        "Mirae Asset Large Cap Fund",
+        "Mirae Asset Emerging Bluechip Fund",
+        "Mirae Asset Hybrid Equity Fund",
+        "Mirae Asset Midcap Fund",
+        "Mirae Asset Tax Saver Fund"
+      ]
+    },
+    {
+      "fundHouse": "UTI Mutual Fund",
+      "schemes": [
+        "UTI Nifty Index Fund",
+        "UTI Equity Fund",
+        "UTI Mid Cap Fund",
+        "UTI Small Cap Fund",
+        "UTI Hybrid Equity Fund"
+      ]
+    },
+    {
+      "fundHouse": "DSP Mutual Fund",
+      "schemes": [
+        "DSP Equity Fund",
+        "DSP Small Cap Fund",
+        "DSP Midcap Fund",
+        "DSP Tax Saver Fund",
+        "DSP Balanced Fund"
+      ]
+    }
+  ]
+}
